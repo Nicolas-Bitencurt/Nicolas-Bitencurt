@@ -1,5 +1,5 @@
 # About Me:
-Olá, eu sou Nicolas Bitencurt 👋<br>💻 Estudante de Analise e Desenvolvimento de Sistemas | Analista de TI | Server |Desenvolvedor em formação | Customer Success<br>Estou sempre em busca de aprendizado e crescimento acadêmico, profissional e pessoal. Caso tenha interesse em conectar ou saber mais sobre meu trabalho, ficarei feliz em trocar ideias! 🚀<br>
+Olá, eu sou Nicolas Bitencurt <br>💻 Estudante de Analise e Desenvolvimento de Sistemas | Analista de TI | Server |Desenvolvedor em formação | Customer Success<br>Estou sempre em busca de aprendizado e crescimento acadêmico, profissional e pessoal. Caso tenha interesse em conectar ou saber mais sobre meu trabalho, ficarei feliz em trocar ideias! 🚀<br>
 
 
 # 💻 Tech Stack:
